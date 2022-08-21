@@ -28,7 +28,11 @@ Web Dev
 
 [![Linkedin Badge](https://img.shields.io/badge/-rajaprerak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajaprerak/)](https://www.linkedin.com/in/xLucasPascual/)
 
+[![Twitter](https://img.shields.io/badge/-rajaprerak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajaprerak/)](https://www.linkedin.com/in/xLucasPascual/)
+
 ![Twitter](https://img.shields.io/twitter/follow/xLucasPascual?style=social)
+
+![Twitter Follow](https://img.shields.io/twitter/follow/xLucasPascual?label=Lucas%20Pascual&logo=Twitter&style=social)
 
 <!--
 
