@@ -12,7 +12,7 @@
 
 - ℹ️ LinkedIn: [Resume | CV](https://www.linkedin.com/in/xlucaspascual)
 
-🛠 **Web Dev | Front End**
+🛠 **Tech Stack:**
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
