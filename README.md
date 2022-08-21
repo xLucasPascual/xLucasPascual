@@ -4,9 +4,15 @@
 
 ### Hi, I'm Lucas Pascual 👋
 
-- 🎯 My Links: 
+🎯 My Links:
+
 - [LucasPascual.com](https://lucaspascual.com/)
+
+Social
 - [Twitter](https://rajaprerak.github.io/)
+- [Instagram](https://rajaprerak.github.io/)
+
+Web Dev
 - [CSS Battle](https://rajaprerak.github.io/)
 
 💻 **Things I love**
@@ -21,6 +27,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 
 [![Linkedin Badge](https://img.shields.io/badge/-rajaprerak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajaprerak/)](https://www.linkedin.com/in/xLucasPascual/)
+
+![Twitter](https://img.shields.io/twitter/follow/xLucasPascual?style=social)
 
 <!--
 
