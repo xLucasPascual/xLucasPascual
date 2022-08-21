@@ -18,6 +18,6 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 
-⚔️ **CSS Battle:** [Fight me!](https://cssbattle.dev/player/xlucaspascual)
+⚔️ **CSS Battle:**
 
-[{www.}](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[Fight me!](https://cssbattle.dev/player/xlucaspascual)
