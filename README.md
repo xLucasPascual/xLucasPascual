@@ -10,7 +10,7 @@
 
 - 🐦 Twitter: [@xLucasPascual](https://twitter.com/xLucasPascual)
 
-- ℹ️ LinkedIn: [Resume | CV](https://www.linkedin.com/in/xlucaspascual)
+- ℹ️ LinkedIn: [More Info](https://www.linkedin.com/in/xlucaspascual)
 
 🛠 **Tech Stack:**
 
