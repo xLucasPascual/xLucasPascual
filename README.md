@@ -7,11 +7,11 @@
 🔗 **Links:**
 
 - 👤 **Website:** [LucasPascual.com](https://lucaspascual.com/)
-- 
+
 - 🐦 **Twitter:** [@xLucasPascual](https://www.instagram.com/xlucaspascual/)
-- 
+
 - ℹ️ **LinkedIn:** [CV](https://www.linkedin.com/in/xlucaspascual/)
-- 
+
 - ⚔️ **CSS Battle:** [Play with me!](https://cssbattle.dev/player/xlucaspascual)
 
 🛠 **Tech Stack**
