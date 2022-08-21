@@ -6,13 +6,13 @@
 
 🔗 **Links:**
 
-- 👤 **Website:** [LucasPascual.com](https://lucaspascual.com/)
+- 👤 **Website:** [{www.}](https://lucaspascual.com/)
 
-- 🐦 **Twitter:** [@xLucasPascual](https://www.instagram.com/xlucaspascual/)
+- 🐦 **Twitter:** [aaa](https://www.instagram.com/xlucaspascual/)
 
-- ℹ️ **LinkedIn:** [CV](https://www.linkedin.com/in/xlucaspascual/)
+- ℹ️ **LinkedIn:** [aaa](https://www.linkedin.com/in/xlucaspascual/)
 
-- ⚔️ **CSS Battle:** [Play with me!](https://cssbattle.dev/player/xlucaspascual)
+- ⚔️ **CSS Battle:** [aaa](https://cssbattle.dev/player/xlucaspascual)
 
 🛠 **Tech Stack**
 
