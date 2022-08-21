@@ -19,5 +19,3 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 
 ⚔️ **CSS Battle:** [Play](https://cssbattle.dev/player/xlucaspascual)
-
-![HTML](https://img.shields.io/twitter/url?label=HTML&logo=html&style=social&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FHTML)
