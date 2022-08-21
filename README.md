@@ -12,12 +12,12 @@
 
 - ℹ️ **LinkedIn:** [Resume | CV](https://www.linkedin.com/in/xlucaspascual)
 
-- ⚔️ **CSS Battle:** [Fight me!](https://cssbattle.dev/player/xlucaspascual)
-
 🛠 **Tech Stack**
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
+
+⚔️ **CSS Battle:** [Fight me!](https://cssbattle.dev/player/xlucaspascual)
 
 [{www.}](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
