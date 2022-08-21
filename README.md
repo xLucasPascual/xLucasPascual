@@ -9,11 +9,10 @@
 - [LucasPascual.com](https://lucaspascual.com/)
 
 Social
-- ![Twitter Follow](https://img.shields.io/twitter/follow/xLucasPascual?label=Lucas%20Pascual&logo=Twitter&style=social)
+- [Twitter](https://www.instagram.com/xlucaspascual/)
 - [Instagram](https://www.instagram.com/xlucaspascual/)
+- [YouTube](https://www.instagram.com/xlucaspascual/)
 - [LinkedIn](https://www.linkedin.com/in/xlucaspascual/)
- 
- <img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Lucas%20Pascual&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fxlucaspascual%2F">
 
 Web Dev
 - [CSS Battle]([https://rajaprerak.github.io/](https://cssbattle.dev/player/xlucaspascual))
