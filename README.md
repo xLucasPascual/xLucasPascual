@@ -4,9 +4,7 @@
 
 ### 👋 Hi, I'm Lucas Pascual
 
-👤 **Website:**
-
-- [www.LucasPascual.com](https://lucaspascual.com/)
+👤 **Website:** [www.LucasPascual.com](https://lucaspascual.com/)
 
 🎨 **Interests:**
 
