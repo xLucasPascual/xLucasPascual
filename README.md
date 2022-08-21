@@ -13,6 +13,8 @@ Social
 - [Instagram](https://rajaprerak.github.io/)
  
  ![LinkedIn](https://img.shields.io/twitter/url?label=Lucas%20Pascual&logo=linkedin&style=social&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fxlucaspascual%2F)
+ 
+ <img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Lucas%20Pascual&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fxlucaspascual%2F">
 
 Web Dev
 - [CSS Battle]([https://rajaprerak.github.io/](https://cssbattle.dev/player/xlucaspascual)
