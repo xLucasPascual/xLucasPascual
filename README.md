@@ -19,10 +19,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-rajaprerak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajaprerak/)](https://www.linkedin.com/in/xLucasPascual/)
 
-<div align="center">
-    <h4 align="center">love love &nbsp;❤️&nbsp;</h4>
-</div>
-
 <!--
 
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
