@@ -6,11 +6,11 @@
 
 🔗 **Links:**
 
-- 👤 **Website:** [LucasPascual.com](https://lucaspascual.com/)
+- 👤 Website: [LucasPascual.com](https://lucaspascual.com/)
 
-- 🐦 **Twitter:** [@xLucasPascual](https://twitter.com/xLucasPascual)
+- 🐦 Twitter: [@xLucasPascual](https://twitter.com/xLucasPascual)
 
-- ℹ️ **LinkedIn:** [Resume | CV](https://www.linkedin.com/in/xlucaspascual)
+- ℹ️ LinkedIn: [Resume | CV](https://www.linkedin.com/in/xlucaspascual)
 
 🛠 **Tech Stack:** Web Dev | Front End
 
