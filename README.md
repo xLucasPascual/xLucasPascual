@@ -10,7 +10,7 @@
 
 - Coding (HTML, CSS, JS)
 
-- Web Dev | Front End
+- Web Dev (Front End)
 
 🛠 **Tech Stack:**
 
