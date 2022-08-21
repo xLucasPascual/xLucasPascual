@@ -10,7 +10,7 @@
 
 - 🐦 **Twitter:** [@xLucasPascual](https://twitter.com/xLucasPascual)
 
-- ℹ️ **LinkedIn:** [Let's connect](https://www.linkedin.com/in/xlucaspascual)
+- ℹ️ **LinkedIn:** [Resume | CV](https://www.linkedin.com/in/xlucaspascual)
 
 - ⚔️ **CSS Battle:** [Fight me!](https://cssbattle.dev/player/xlucaspascual)
 
