@@ -4,14 +4,17 @@
 
 ### Hi, I'm Lucas Pascual 👋
 
-- 🎯 Portfolio website: [Portfolio](https://rajaprerak.github.io/)
+- 🎯 My Links: 
+- [LucasPascual.com](https://lucaspascual.com/)
+- [Twitter](https://rajaprerak.github.io/)
+- [CSS Battle](https://rajaprerak.github.io/)
 
 💻 **Things I love**
 - eLearning ✍️
 - Graphic Design 🧐
 - Marketing 😬
     
-🛠**Tech Stack**
+🛠 **Tech Stack**
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
