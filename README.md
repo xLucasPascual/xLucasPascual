@@ -4,23 +4,12 @@
 
 ### Hi, I'm Lucas Pascual 👋
 
-🎯 My Links:
+
 
 - [LucasPascual.com](https://lucaspascual.com/)
 
-Social
-- [Twitter](https://www.instagram.com/xlucaspascual/)
-- [Instagram](https://www.instagram.com/xlucaspascual/)
-- [YouTube](https://www.instagram.com/xlucaspascual/)
-- [LinkedIn](https://www.linkedin.com/in/xlucaspascual/)
-
-Web Dev
+🤖 **Web Dev**
 - [CSS Battle](https://cssbattle.dev/player/xlucaspascual)
-
-💻 **Things I love**
-- eLearning ✍️
-- Graphic Design 🧐
-- Marketing 😬
     
 🛠 **Tech Stack**
 
@@ -28,3 +17,14 @@ Web Dev
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 
+💻 **Interests**
+- eLearning ✍️
+- Graphic Design 🧐
+- Marketing 😬
+
+🔗 **My Links**
+
+- [Twitter](https://www.instagram.com/xlucaspascual/)
+- [Instagram](https://www.instagram.com/xlucaspascual/)
+- [YouTube](https://www.instagram.com/xlucaspascual/)
+- [LinkedIn](https://www.linkedin.com/in/xlucaspascual/)
