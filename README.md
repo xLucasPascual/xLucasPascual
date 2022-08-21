@@ -15,7 +15,7 @@ Social
 - [LinkedIn](https://www.linkedin.com/in/xlucaspascual/)
 
 Web Dev
-- [CSS Battle]([https://rajaprerak.github.io/](https://cssbattle.dev/player/xlucaspascual))
+- [CSS Battle](https://cssbattle.dev/player/xlucaspascual)
 
 💻 **Things I love**
 - eLearning ✍️
