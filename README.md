@@ -8,9 +8,9 @@
 
 - 👤 **Website:** [{www.}](https://lucaspascual.com/)
 
-- 🐦 **Twitter:** [aaa](https://www.instagram.com/xlucaspascual/)
+- 🐦 **Twitter:** [](https://twitter.com/xLucasPascual)
 
-- ℹ️ **LinkedIn:** [aaa](https://www.linkedin.com/in/xlucaspascual/)
+- ℹ️ **LinkedIn:** [aaa](https://www.linkedin.com/in/xlucaspascual)
 
 - ⚔️ **CSS Battle:** [aaa](https://cssbattle.dev/player/xlucaspascual)
 
