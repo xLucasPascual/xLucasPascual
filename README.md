@@ -4,13 +4,7 @@
 
 ### Hi, I'm Lucas Pascual 👋
 
-🔗 **Links:**
-
-- 👤 Website: [www.LucasPascual.com](https://lucaspascual.com/)
-
-- 🐦 Twitter: [@xLucasPascual](https://twitter.com/xLucasPascual)
-
-- ℹ️ LinkedIn: [More Info](https://www.linkedin.com/in/xlucaspascual)
+👤 Website: [www.LucasPascual.com](https://lucaspascual.com/)
 
 🛠 **Tech Stack:**
 
@@ -18,4 +12,10 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 
-⚔️ **CSS Battle:** [Play](https://cssbattle.dev/player/xlucaspascual)
+🔗 **Links:**
+
+- 🐦 Twitter: [@xLucasPascual](https://twitter.com/xLucasPascual)
+
+- ℹ️ LinkedIn: [More Info](https://www.linkedin.com/in/xlucaspascual)
+
+⚔️ CSS Battle: [Play](https://cssbattle.dev/player/xlucaspascual)
