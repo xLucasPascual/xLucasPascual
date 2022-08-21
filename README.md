@@ -6,7 +6,7 @@
 
 - 👤 Website: [www.LucasPascual.com](https://lucaspascual.com/)
 
-🛠 **Interests:**
+🎨 **Interests:**
 
 - Coding (HTML, CSS, JS)
 
