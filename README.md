@@ -6,11 +6,11 @@
 
 🔗 **Links:**
 
-- 👤 **Website:** ["<a href=''>Website</a>"](https://lucaspascual.com/)
+- 👤 **Website:** [LucasPascual.com](https://lucaspascual.com/)
 
 - 🐦 **Twitter:** [@xLucasPascual](https://twitter.com/xLucasPascual)
 
-- ℹ️ **LinkedIn:** [Resume](https://www.linkedin.com/in/xlucaspascual)
+- ℹ️ **LinkedIn:** [Let's connect](https://www.linkedin.com/in/xlucaspascual)
 
 - ⚔️ **CSS Battle:** [Fight me!](https://cssbattle.dev/player/xlucaspascual)
 
