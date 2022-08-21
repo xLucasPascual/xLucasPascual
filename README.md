@@ -4,7 +4,9 @@
 
 ### Hi, I'm Lucas Pascual 👋
 
+
 👤 Website: [www.LucasPascual.com](https://lucaspascual.com/)
+
 
 🛠 **Tech Stack:**
 
@@ -18,4 +20,4 @@
 
 - ℹ️ LinkedIn: [More Info](https://www.linkedin.com/in/xlucaspascual)
 
-⚔️ CSS Battle: [Play](https://cssbattle.dev/player/xlucaspascual)
+- ⚔️ CSS Battle: [Play](https://cssbattle.dev/player/xlucaspascual)
