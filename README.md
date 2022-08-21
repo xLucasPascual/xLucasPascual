@@ -6,7 +6,7 @@
 
 🔗 **Links:**
 
-- 👤 **Website:** [www.LucasPascual.com](https://lucaspascual.com/)
+- 👤 [WebSite](https://lucaspascual.com/)
 
 - 🐦 **Twitter:** [@xLucasPascual](https://twitter.com/xLucasPascual)
 
