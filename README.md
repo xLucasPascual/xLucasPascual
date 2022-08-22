@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="420" height="330">
+<img align="right" src="https://github.com/xLucasPascual/xLucasPascual/blob/main/developer.gif" alt="Coder GIF" width="420" height="330">
 
 ### 👋 Hi, I'm Lucas Pascual
 
